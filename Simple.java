@@ -4,5 +4,6 @@ public class Simple {
     {
         System.out.println("Shrusti");
         System.out.println("Deepa";)
+        System.out.println("MASTER";)
     }
 }
